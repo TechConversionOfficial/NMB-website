@@ -1,11 +1,20 @@
-
 # NMB Leasing Solutions website: commercial property searches built around real business requirements
 
 **NMB Leasing Solutions is a Visakhapatnam-based commercial property leasing consultancy whose website is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The [NMB website](https://nmbleasingsolutions.com/) helps businesses discover retail shops, offices, warehouses and commercial land, compare practical property information and enquire about suitable premises. It also gives property owners a separate way to submit spaces for review.**
 
-![NMB Leasing Solutions saved brand logo presentation](images/nmb-leasing-logo-presentation.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nmb-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/nmb-website-mockup.webp" alt="NMB Leasing Solutions website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Saved NMB-branded logo design artwork. This is not a screenshot of the live website or confirmation that this exact logo variation is deployed.*
+<p align="center">
+  <a href="https://nmbleasingsolutions.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/nmb-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -17,7 +26,8 @@
 | **Project category** | Commercial property listings and lead-enquiry website |
 | **Property types** | Retail spaces, offices, warehouses and commercial land |
 | **Full portfolio** | [techconversion.tech/portfolio](https://techconversion.tech/portfolio) |
-| **Production technology** | Not independently audited; saved WordPress-related project code is available, but the entire live stack is unverified |
+| **GitHub repository** | [TechConversionOfficial/NMB-website](https://github.com/TechConversionOfficial/NMB-website) |
+| **Production technology** | Not independently audited; the complete live stack is unverified |
 
 ## About the business
 
@@ -25,7 +35,7 @@
 - **Who it serves:** retailers looking for visible shops or showrooms; growing businesses needing offices; logistics and industrial operators seeking warehouses; and property owners hoping to lease commercial space.
 - **Where it works:** its published office is in Dwarakanagar, Visakhapatnam. The company also presents commercial markets across Andhra Pradesh, including Vijayawada, Tirupati, Guntur and other cities.
 - **Who leads it:** the company About page identifies **Mohanababu Namballa** as founder and CEO, alongside a retail and office leasing specialist, Bhaskar G.
-- **Why the website matters:** buyers need specific information—location, area, rent, frontage, floor, utilities and access—before arranging a visit. Owners need a simple route to offer a property without creating an account.
+- **Why the website matters:** buyers need specific information such as location, area, rent, frontage, floor, utilities and access before arranging a visit. Owners need a simple route to offer a property without creating an account.
 
 The business describes its listings as verified. Verification, deal volume, client-retention figures and endorsements on the company's website are **client-published claims**, not independent findings of this portfolio record.
 
@@ -37,7 +47,7 @@ A single unstructured property gallery makes these requirements difficult to com
 
 The owner side of the marketplace creates a second challenge: commercial property owners must be able to share a property, its dimensions, facilities and asking rent without dealing with a complicated sign-up process.
 
-No independently documented previous-site audit was available, so the challenges above describe the business needs evidenced by the live platform, not verified shortcomings of an earlier version.
+These are the business needs evidenced by the live platform; they are not, by themselves, proof of shortcomings in an earlier website.
 
 ## How Tech Conversion presented the project
 
@@ -48,55 +58,47 @@ The following describes **publicly observable website features and the published
 3. **Make individual properties useful to evaluate.** Public listings present combinations of floor area, monthly rent, floor position, frontage, utilities and other property details, with contact options for follow-up.
 4. **Create a dedicated owner-listing journey.** The [List Your Property](https://nmbleasingsolutions.com/list-your-property/) form collects owner and property information, rent expectations, amenities, images and optional floor plans. It also offers a WhatsApp route.
 5. **Ask tenants about their actual requirements.** The [Contact](https://nmbleasingsolutions.com/contact-us/) page includes property category, preferred locality, required area, budget, timing and other enquiry fields so the leasing team can shortlist suitable spaces.
-6. **Explain the leasing process.** The homepage sets out a clear progression from requirement sharing to shortlisted options, site visits, negotiations, documentation and move-in support.
+6. **Explain the leasing process.** The homepage sets out a progression from requirement sharing to shortlisted options, site visits, negotiations, documentation and move-in support.
 7. **Show local market coverage.** The homepage presents commercial hubs across Andhra Pradesh, giving visitors context beyond a single property or neighbourhood.
 8. **Keep direct contact visible.** Calls, WhatsApp and enquiry actions appear throughout the public site to help turn property research into a conversation.
 
-## Project images and visual direction
+## Website and project images
 
-The following files are **saved NMB and Vizag Leasing design/presentation assets** recovered from project materials. Several earlier mockups carry the working name **Vizag Leasing**, while the current public brand is **NMB Leasing Solutions**. Their typography, mock figures, phone numbers and sample property details must not be mistaken for verified live listings or final production screenshots.
+### Official website mockup
 
-### Commercial leasing and owner onboarding concept
+The following Tech Conversion portfolio mockup presents NMB Leasing Solutions as a polished commercial-property and leasing website project.
 
-![Earlier commercial property-owner onboarding concept from the saved project materials](images/nmb-property-owner-form-dark-concept.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nmb-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/nmb-website-mockup.webp" alt="NMB Leasing Solutions responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-### Property form and submission details
+*Click the image to open the full-resolution mockup.*
 
-![Commercial property submission interface concept](images/nmb-property-owner-form-variant.webp)
+### Full-length website screenshot
 
-### Alternate property submission treatment
+The following image is the complete homepage capture supplied through Tech Conversion's project media.
 
-![Alternative property-owner submission concept](images/nmb-property-owner-form-light-variant.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/nmb-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/nmb-new-website-home-page.webp" alt="NMB Leasing Solutions complete commercial property website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### Responsive listing presentation
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-![Desktop and mobile mockup of commercial property details](images/nmb-property-desktop-mobile-mockup.webp)
+### Image provenance
 
-### Property detail and specification layouts
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` design concepts and the `IMAGE-SOURCES.md` dependency.
 
-| Listing detail concept | Mobile property details concept |
-|---|---|
-| ![Commercial property detail page design](images/nmb-property-detail-concept.webp) | ![Mobile commercial property detail design](images/nmb-property-mobile-detail-concept.webp) |
+These images document the NMB website project visually, but they are **not evidence of measured increases in enquiries, leasing conversions, signed agreements, search rankings, traffic, page speed or revenue**.
 
-### Catalogue and warehouse layout explorations
+Property availability, asking rent, dimensions, ownership-related information and contact details shown on any website screenshot may change. The **live NMB website and leasing team remain the appropriate sources for current property information**.
 
-| Commercial listing catalogue | Warehouse listing concept |
-|---|---|
-| ![Visakhapatnam commercial property listing grid concept](images/nmb-property-listing-grid-concept.webp) | ![Warehouse property detail layout concept](images/nmb-warehouse-listing-concept.webp) |
-
-### Additional property presentation and enquiry form
-
-| Detailed property showcase | Form interface concept |
-|---|---|
-| ![Premium commercial property page layout](images/nmb-property-showcase-concept.webp) | ![Commercial property form interface](images/nmb-property-form-interface-concept.webp) |
-
-### NMB brand and footer explorations
-
-![NMB commercial leasing contact and footer design](images/nmb-leasing-footer-concept.webp)
-
-![Saved NMB Leasing Solutions logo variations](images/nmb-leasing-logo-variations.webp)
-
-These visuals show design exploration, rather than a documented old-versus-new production comparison. The repository's [IMAGE-SOURCES.md](IMAGE-SOURCES.md) maps each WebP to its original saved filename. Property availability, asking rent and contact information should always be checked on the **live NMB website** before use.
+Because the project images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced using relative paths.
 
 ## Standards the website should be reviewed against
 
@@ -125,9 +127,9 @@ The following are **evaluation references**, not evidence of completed certifica
 
 ## Before and after
 
-A dated, authenticated before-and-after set of **production NMB website screenshots** was not available in the reviewed project materials. The saved NMB and Vizag Leasing design images above are **portfolio concepts and working-stage visuals**, not verified evidence of a historical redesign or measured improvement.
+A full-page screenshot of the delivered NMB Leasing Solutions website is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-An accurate comparison can be added if the client supplies original browser captures from identifiable previous and current versions.
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
@@ -141,6 +143,15 @@ An accurate comparison can be added if the client supplies original browser capt
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository is a public project record and design showcase. It does **not** distribute the live website's source code, property-owner documents, tenant contact details, confidential lease terms, site credentials or customer information. The NMB brand and third-party property materials remain with their respective rights holders.
+## Repository scope and image credits
+
+This repository is a public project record and design showcase. It does **not** distribute the live website's source code, property-owner documents, tenant contact details, confidential lease terms, site credentials or customer information.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. The NMB brand and third-party property materials remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
